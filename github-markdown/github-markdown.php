@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: Github Markdown
-Plugin URI: http://wordpress.org/plugins/github-markdown/
+Plugin URI: https://github.com/hongjh/wordpress-plugin-github-markdown/
 Description: Support Github Markdown Style.
 Author: Hongjh
 Version: 1.0.0
